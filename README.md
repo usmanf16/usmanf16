@@ -1,4 +1,4 @@
-![logo](https://github.com/usmanf16/usmanf16/blob/main/Usman%20malikse.png)
+![logo](https://github.com/usmanf16/usmanf16/blob/main/gaming.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 
 <h3 align="center">A passionate Software developer from Europe</h3>
